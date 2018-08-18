@@ -1,6 +1,6 @@
-jupyter contrib nbextension install --user
-jupyter nbextension enable --py widgetsnbextension
-jupyter nbextension enable python-markdown/main
+set -ex
+
+invoke build --env-name=root --no-kernel
 
 jupyter labextension install @jupyterlab/fasta-extension
 jupyter labextension install @jupyterlab/plotly-extension

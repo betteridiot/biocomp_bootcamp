@@ -1,0 +1,10 @@
+nodejs
+yarn
+jupyterlab
+notebook
+numpy
+pandas
+matplotlib
+seaborn
+nbconvert
+ipykernel

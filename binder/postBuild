@@ -1,0 +1,4 @@
+#!/bin/bash
+
+jupyter labextension install @jupyterlab/fasta-extension
+jupyter labextension install @jupyterlab/plotly-extension

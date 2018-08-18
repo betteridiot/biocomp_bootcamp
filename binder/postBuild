@@ -1,4 +1,2 @@
-jupyter labextension install @jupyterlab/fasta-extension @jupyterlab/plotly-extension --no-build
-
-jupyter lab build
-jupyter trust index.ipynb
+#!/bin/bash
+jupyter labextension install @jupyterlab/fasta-extension @jupyterlab/plotly-extension

@@ -1,9 +1,4 @@
-set -ex
+jupyter labextension install @jupyterlab/fasta-extension @jupyterlab/plotly-extension --no-build
 
-invoke build --env-name=root --no-kernel
-
-jupyter labextension install @jupyterlab/fasta-extension
-jupyter labextension install @jupyterlab/plotly-extension
-
-jupyter trust index.ipynb
 jupyter lab build
+jupyter trust index.ipynb

@@ -2,12 +2,12 @@ channels:
   - conda-forge
 dependencies:
   - python=3.6
-  - jupyterlab
   - nodejs
-  - notebook
-  - nbconvert
-  - ipykernel
-  - pip
+  - pip:
+    - jupyterlab
+    - notebook
+    - nbconvert
+    - ipykernel
   - numpy
   - pandas
   - matplotlib

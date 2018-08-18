@@ -2,12 +2,13 @@ name: biocomp_bootcamp
 channels:
   - conda-forge
   - intel
-  - bioconda
 dependencies:
-  - python=3.7
-  - pip
-  - notebook
+  - python=3.6
+  - pip:
+    - jupyter_contrib_nbextensions
   - jupyter
+  - notebook
+  - jupyterlab
   - numpy
   - pandas
   - matplotlib

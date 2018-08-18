@@ -4,13 +4,13 @@ channels:
   #- intel
 dependencies:
   - python=3.7
-  - pip:
-    - jupyter_contrib_nbextensions
-  - jupyter
-  - notebook
-  - jupyterlab
+  - pip
+ #   - jupyter_contrib_nbextensions
+ # - jupyter
+ # - notebook
+ # - jupyterlab
  # - numpy
  # - pandas
  # - matplotlib
  # - plotly
-  - ipywidgets
+ # - ipywidgets

@@ -7,3 +7,4 @@ jupyter labextension install @jupyterlab/fasta-extension
 jupyter labextension install @jupyterlab/plotly-extension
 
 jupyter trust index.ipynb
+jupyter lab build

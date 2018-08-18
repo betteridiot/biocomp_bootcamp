@@ -45,23 +45,26 @@ Much of bioinformatics requires manipulation of data data sets, execution of mul
 ### Session I: Intro to Python and Programming Concepts [1:15 hr]
 - What is Python?  What is programming?
 - Setup and execution of simple scripts
-- Data input and output
 
 ##### &#8212; &#9749; Coffee Break [15 mins]
 
-### Session II: Programming Concepts, Variables, and Data Structures [1:30 hr]
-- Concepts in the Python language
-- Variables and data structures
+### Session II: Variables and Data Structures [1:30 hr] 
+- What is a variable?
+- Data Structures:
+  - Mutable vs Immutable
+  - Lists vs Tuples
+  - Dictonaries and Sets
 
 ### &#8212; &#127869; Lunch Break [1 hr]
 
-### Session III: Control Structures and Functions [1.15 hr]
+### Session III: I/O, Control Structures, and Functions [1.15 hr]
+- Data input and output
 - Control structures and loops
 - Functions
 
 ##### &#8212; &#9749; Coffee Break [15 mins]
 
-### Session IV: System Calls, Plotting, and Jupyter Notebooks [1.30 hr]
+### Session IV: System Calls and Plotting [1.30 hr]
 - Calling external programs
 - Tabular data analysis with `pandas`
 - Plotting using `matplotlib`
@@ -71,12 +74,6 @@ Much of bioinformatics requires manipulation of data data sets, execution of mul
 - Summary
 - Questions
 ---
-
-## Datasets
-
-[Cereal comma-delimited table](../class-material/cereals.csv)<br/>
-[Cereal tab-delimited table](../class-material/cereals.tsv)<br/>
-[Gene expression table](../class-material/GTEx_Analysis_v6p_RNA-seq_RNA-SeQCv1.1.8_gene_median_rpkm.gct.gz)<br/>
 
 ## Resources
 | <p align="left"> Link | <p align="left">Description           |

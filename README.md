@@ -1,7 +1,8 @@
-# Biocomputing Bootcamp
-## Instructor: Marcus D. Sherman
-## Mills Lab
-## University of Michigan, Department of Computational Medicine & Bioinformatics
+# Biocomputing Bootcamp Day 2: Introduction to Programming
+Marcus D. Sherman<br/>
+Mills Lab<br/>
+University of Michigan, Department of Computational Medicine & Bioinformatics<br/>
+
 ---
 Jupyter Binder containing interactive labs for DCMB Introduction to Biocomputing Bootcamp
 
@@ -10,7 +11,6 @@ Jupyter Binder containing interactive labs for DCMB Introduction to Biocomputing
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-green.svg)](https://github.com/betteridiot/biocomp_bootcamp/blob/master/LICENSE)
 
 ---
-# Day 2. Introduction to Programming
 
 Much of bioinformatics requires manipulation of data data sets, execution of multiple external programs, and summary and analysis of results.  Many programming langagues, such as Perl and Python excel at these tasks.  Here, we will provide an overview of the Python language, demonstrate basic concepts in programming, and show how to create figures and utilize iPython notebooks.  Python is a powerfull language with many external packages that permit sophisticated analysis workflows.
 

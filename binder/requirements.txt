@@ -1,3 +1,4 @@
+pip>=18.0
 nodejs
 jupyterlab
 notebook

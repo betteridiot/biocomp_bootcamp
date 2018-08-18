@@ -1,9 +1,9 @@
 #!/bin/bash
-jupyter contrib nbextension install --user
-jupyter nbextension enable --py widgetsnbextension
-jupyter nbextension enable python-markdown/main
+#jupyter contrib nbextension install --user
+#jupyter nbextension enable --py widgetsnbextension
+#jupyter nbextension enable python-markdown/main
 
-jupyter labextension install @jupyterlab/fasta-extension
-jupyter labextension install @jupyterlab/plotly-extension
+#jupyter labextension install @jupyterlab/fasta-extension
+#jupyter labextension install @jupyterlab/plotly-extension
 
-jupyter trust index.ipynb
+#jupyter trust index.ipynb

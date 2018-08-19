@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 export CULL_TIMEOUT=28800
 export CULL_KERNEL_TIMEOUT=28800
+echo $CULL_TIMEOUT
+echo $CULL_KERNEL_TIMEOUT

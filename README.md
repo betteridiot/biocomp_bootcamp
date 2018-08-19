@@ -77,6 +77,7 @@ Much of bioinformatics requires manipulation of data data sets, execution of mul
 | Link                                                                                                          | Description |
 | :-----------------------------------------------------------------------------------------------------------: | :---------------- |
 | [Cheat Sheet](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc.pdf) | Basic Python beginner's cheat sheet |
+| [Shortcut Cheat Sheet](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/)         | Keyboard shortcut cheat sheet for Jupyter Notebooks |
 | [CodeAcademy](https://www.codecademy.com/learn/python)                                                        | An interactive online python tutorial for beginners |
 | [Hitchhiker's Guide to Python](https://docs.python-guide.org/)                                                | Guide for both novice and expert Python developers to installation, configuration, and usage best practices |
 | [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)                    | Python is the main dynamic language used at Google. This style guide is a list of dos and don'ts for Python programs |

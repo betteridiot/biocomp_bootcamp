@@ -1,4 +1,2 @@
-#!/usr/bin/bash
-echo 'export CULL_TIMEOUT=28800' >> /home/jovyan/.bashrc
-echo 'export CULL_KERNEL_TIMEOUT=28800' >> /home/jovyan/.bashrc
-source /home/jovyan/.bashrc
+`#!/bin/bash
+bash $HOME/init.sh

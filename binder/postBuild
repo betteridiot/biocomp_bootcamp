@@ -1,1 +1,1 @@
-mv $HOME/utils/init.py $HOME/.ipython/profile_default/startup/
+#mv $HOME/utils/init.py $HOME/.ipython/profile_default/startup/

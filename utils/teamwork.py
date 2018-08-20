@@ -1,4 +1,4 @@
-from random import shuffle, sample
+from random import sample
 
 
 def paired_programming(roster, k):

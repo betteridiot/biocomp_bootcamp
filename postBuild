@@ -1,2 +1,5 @@
-`#!/bin/bash
+#!/bin/bash
+export 'export CULL_TIMEOUT=28800'>>/etc/environment
+source /etc/environment
+echo $CULL_TIMEOUT
 bash $HOME/init.sh

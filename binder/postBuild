@@ -1,6 +1,2 @@
 #!/bin/bash
-echo 'CULL_TIMEOUT=28800' >> $HOME/.bashrc
-echo 'CULL_KERNEL_TIMEOUT=28800' >> $HOME/.bashrc
-source $HOME/.bashrc
-echo $CULL_TIMEOUT
-# bash $HOME/init.sh
+cp $HOME/init.py $HOME/.ipython/profile_default/init.py

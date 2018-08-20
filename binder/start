@@ -1,4 +1,4 @@
 #!/bin/bash
-echo $CULL_TIMEOUT
-echo $CULL_KERNEL_TIMEOUT
+export CULL_TIMEOUT="28800"
+export CULL_KERNEL_TIMEOUT="28800"
 `exec "$@"`

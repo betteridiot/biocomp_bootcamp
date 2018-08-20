@@ -1,2 +1,2 @@
 #!/bin/bash
-mv $HOME/utils/init.py $HOME/.ipython/profile_default/init.py
+mv $HOME/utils/init.py $HOME/.ipython/profile_default/startup/init.py

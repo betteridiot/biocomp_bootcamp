@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $CULL_TIMEOUT
+echo $CULL_KERNEL_TIMEOUT

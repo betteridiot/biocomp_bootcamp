@@ -8,3 +8,4 @@ matplotlib
 seaborn
 nbconvert
 ipykernel
+scikit-learn

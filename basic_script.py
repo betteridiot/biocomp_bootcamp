@@ -8,3 +8,6 @@ In addition to doing 'Hello, World', I want you to go a little further.
 1. Save your partner's name as a variable
 2. Print out 'Hello, <your partner's name>' by passing it the variable
 """
+print('Hello, World')
+partner = 'P. Diddy'
+print('Hello, ' + partner)

@@ -4,6 +4,11 @@ jupyterlab
 notebook
 numpy
 pandas
+openpyxl
+XlsxWriter
+xlrd
+xlwt
+xlutils
 matplotlib
 seaborn
 nbconvert
